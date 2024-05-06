@@ -9,12 +9,12 @@ This project is a Node.js server application that finds missing numbers in a giv
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/find-missing-numbers.git
+git clone https://github.com/TarasGShevchenko/jetbase-tt.git
 ```
 ## Navigate to the project directory:
 
 ```bash
-cd find-missing-numbers
+cd jetbase-tt
 ```
 
 ## Install dependencies::
